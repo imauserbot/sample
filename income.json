@@ -1,19 +1,19 @@
 [
     {
         "_id": "_1231",
-        "title": "a",
+        "title": "Bought Pencil",
         "amount": 100
     },    {
         "_id": "_1232",
-        "title": "b",
+        "title": "Bought Pen",
         "amount": 200
     },    {
         "_id": "_1233",
-        "title": "c",
+        "title": "Purchased a Book",
         "amount": 300
     },    {
         "_id": "_1234",
-        "title": "d",
+        "title": "Subscribed Telegram Premium",
         "amount": 400
     }
 ]
