@@ -2,18 +2,18 @@
     {
         "_id": "_1231",
         "title": "a",
-        "amount": 100
+        "amount": 1
     },    {
         "_id": "_1232",
         "title": "b",
-        "amount": 200
+        "amount": 2
     },    {
         "_id": "_1233",
         "title": "c",
-        "amount": 300
+        "amount": 3
     },    {
         "_id": "_1234",
         "title": "d",
-        "amount": 400
+        "amount": 4
     }
 ]
